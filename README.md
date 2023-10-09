@@ -1,4 +1,4 @@
-### Hello there 
+### Hello there 👋
 
 Bienvenidos a mi GIT HUB, soy Javier Ruiz y actualmente estoy estudiando **1 DAW**, por aqui podras encontrar en el futuro repositorios con ejercicios que vaya resolviendo y mas adelante ire ampliandolo en base a los conocimientos que vaya adquiriendo.
 
